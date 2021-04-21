@@ -8,6 +8,17 @@ I'm Yashraj from India, and I do content on Design and Development. I really enj
 * ⚛ React
 * 💻 HTML, CSS, JS
 
+# React Tools:
+* React.js
+* Webpack
+* Redux
+
+# Front End Development Tools:
+* npm
+* Webpack
+
+
+
 
 -📫 reach me on : yash@mobmaxime.com
 
